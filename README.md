@@ -12,7 +12,7 @@ This project implements an object detection system to detect aircraft in remote 
 ## 🛠️ Tech Stack
 - Python
 - YOLOv8 (Ultralytics)
-- OpenCV
+- OpenCV.
 
 ## 📂 Project Structure
 - `input_image/` → Place input images here
